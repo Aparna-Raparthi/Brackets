@@ -1,0 +1,58 @@
+.clearfix:after{
+    content: "";
+    display:table;
+    clear: both;
+}
+body{
+    
+    font-family: cursive;
+}
+h1 {
+    color: green; 
+    text-align: center;
+}
+img{
+    width: auto;
+    height: 150;
+    float: right;
+}
+.main{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20;
+    border : 1px solid #101010;
+    float: left;
+    
+}
+.Author img{
+    border-radius: 80%;
+    float: left;
+}
+
+.learings {
+    float:left;
+    margin-left: 10px;
+    border: 1px solid #101010;
+    padding: 5px;
+}
+.Author {
+    border:1px solid #101010;
+    margin-top: 20px;
+    padding: 10px;
+    float: left;
+}
+.author-name {
+    float: left;
+    font-size: 15px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+.contact-details{
+    float: left;
+    margin-top: 40px;
+}
+img{
+    width: auto;
+    height: 100;
+}
